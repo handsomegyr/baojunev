@@ -1,0 +1,6 @@
+suites:
+    fulu_suite:
+        namespace: Baojunev
+        psr4_prefix: Baojunev
+formatter.name: pretty
+
